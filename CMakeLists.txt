@@ -1,7 +1,7 @@
 # CMakeLists.txt
 
 # Always set the cmake min version.
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.5)
 
 set (PROJ_NAME "XAtlas_wrap")
 set (PROJECT_VERSION "1.0")
